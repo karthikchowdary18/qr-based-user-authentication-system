@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+test/__pycache__/
+test/htmlcov/
+test/coverage_statement_branch.txt
+test/lizard_complexity_report.txt
+test/pylint_report.txt
